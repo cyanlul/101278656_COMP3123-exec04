@@ -1,0 +1,21 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "Lab 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dilan Piyasenage Don",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "nodeom": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyanlul/101278656_COMP3123-exec04.git"
+  }
+}
